@@ -13,6 +13,13 @@
     color: gray;
 }
 
+/* 말줄임 표시 */
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
 
 /* 모든 div 박스를 담는 
 container 크기 및 padding 설정 */
